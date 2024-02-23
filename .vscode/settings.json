@@ -1,0 +1,21 @@
+{
+    "C_Cpp.intelliSenseEngine": "default",
+    "idf.adapterTargetName": "esp32s3",
+    "idf.customExtraPaths": "/home/shamith.kumar/esp/esp-idf/tools/tools/xtensa-esp-elf-gdb/12.1_20231023/xtensa-esp-elf-gdb/bin:/home/shamith.kumar/esp/esp-idf/tools/tools/riscv32-esp-elf-gdb/12.1_20231023/riscv32-esp-elf-gdb/bin:/home/shamith.kumar/esp/esp-idf/tools/tools/xtensa-esp-elf/esp-13.2.0_20230928/xtensa-esp-elf/bin:/home/shamith.kumar/esp/esp-idf/tools/tools/riscv32-esp-elf/esp-13.2.0_20230928/riscv32-esp-elf/bin:/home/shamith.kumar/esp/esp-idf/tools/tools/esp32ulp-elf/2.35_20220830/esp32ulp-elf/bin:/home/shamith.kumar/esp/esp-idf/tools/tools/openocd-esp32/v0.12.0-esp32-20230921/openocd-esp32/bin:/home/shamith.kumar/esp/esp-idf/tools/tools/esp-rom-elfs/20230320",
+    "idf.customExtraVars": {
+        "OPENOCD_SCRIPTS": "/home/shamith.kumar/esp/esp-idf/tools/tools/openocd-esp32/v0.12.0-esp32-20230921/openocd-esp32/share/openocd/scripts",
+        "ESP_ROM_ELF_DIR": "/home/shamith.kumar/esp/esp-idf/tools/tools/esp-rom-elfs/20230320/"
+    },
+    "idf.espIdfPath": "/home/shamith.kumar/esp/esp-idf",
+    "idf.openOcdConfigs": [
+        "board/esp32s3-bridge.cfg"
+    ],
+    "idf.port": "/dev/ttyACM0",
+    "idf.pythonBinPath": "/home/shamith.kumar/esp/esp-idf/tools/python_env/idf5.3_py3.8_env/bin/python",
+    "idf.toolsPath": "/home/shamith.kumar/esp/esp-idf/tools",
+    "idf.flashType": "UART",
+    "files.associations": {
+        "esp_err.h": "c",
+        "esp_log.h": "c"
+    }
+}

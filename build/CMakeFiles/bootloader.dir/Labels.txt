@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+/home/shamith.kumar/project-name/build/CMakeFiles/bootloader
+/home/shamith.kumar/project-name/build/CMakeFiles/bootloader.rule
+/home/shamith.kumar/project-name/build/CMakeFiles/bootloader-complete.rule
+/home/shamith.kumar/project-name/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+/home/shamith.kumar/project-name/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+/home/shamith.kumar/project-name/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+/home/shamith.kumar/project-name/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule
+/home/shamith.kumar/project-name/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+/home/shamith.kumar/project-name/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+/home/shamith.kumar/project-name/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
